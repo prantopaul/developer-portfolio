@@ -1,0 +1,86 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0 auto;
+}
+.section01{
+    display: flex;  
+}
+h2{
+    font-size: 80px;
+}
+.mission{
+    text-align: center;
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 15px;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.link-button{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    padding: 10px 23px;
+    color: white;
+    border-radius: 45px 0px ;
+}
+.img_section{
+    width: 30%;
+    
+}
+.bg_image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bg_image1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.box-model{
+    width:100%;
+}
+.box-model img{
+    width: 40%;
+}
+.sec1{
+    background-color: hotpink;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.sec2{
+    background-color: tomato;
+    margin-right: 50px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.sec3{
+    background-color: gray;
+    margin-right: 50px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.img-width{
+    width: 40%;
+}
+.last-sec{
+    width:50px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+}
+h3{
+    font-size: 40px;
+}
